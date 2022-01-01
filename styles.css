@@ -1,0 +1,235 @@
+.list {
+    background: #000;
+    height: 80px; 
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.list ul {
+    height: 80px;
+  list-style: none;
+  margin: 0 auto; 
+  padding: 0;
+}
+
+.list ul li {
+    color: #fff;
+  display: inline-block; 
+  height: 80px;
+  line-height: 80px; 
+  list-style: none;
+  padding: 0 10px;
+}
+
+.img {
+    margin-left: 60px;
+    border: solid black 10px;
+}
+
+.timeline {
+    text-align: center;
+    border: solid black 10px;
+    text-transform: capitalize;
+    text-decoration-color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-size: 50px;
+}
+
+.ironman {
+    margin-left: 85px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.talk {
+    margin-left: 40px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    padding-top: 50px;
+    margin-top:10px;
+    
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .img2 {
+    margin-left: 60px;
+    border: solid black 10px;
+    margin-top: -1500px;
+    margin-bottom: 236px;
+  }
+
+  .spiderman {
+    margin-left: 550px;
+    margin-top: -210px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .talk2 {
+    margin-left: 20px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    display: inline;
+  }
+
+   .img3 {
+    margin-left: 60px;
+    border: solid black 10px;
+    margin-top: -1500px;
+    margin-bottom: 190px;
+   }
+
+   .america {
+    margin-left: 1025px;
+    margin-top: -170px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+   }
+
+   .talk3 {
+    left: 510px;
+    position: relative;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    display: inline;
+   }
+
+   .img4 {
+    margin-left: 70px;
+    border: solid black 10px;
+    margin-top: -5px;
+    text-align: center;
+   }
+
+   .talk4 {
+    margin-left: -80px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+   }
+
+  .done55 {
+    margin-left: 570px;
+    margin-top: 16px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  
+   .img5 {
+    margin-left: -380px;
+    border: solid black 10px;
+    margin-top: 60px;
+    text-align: center;
+
+  }
+
+  .talk5 {
+    margin-left: 40px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    
+    
+  }
+
+  .done66 {
+    margin-left: 1025px;
+    margin-top: -120px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .img6 {
+    margin-left: 65px;
+    border: solid black 10px;
+    margin-top: -700px;
+    text-align: center; 
+    margin-bottom: 140px;
+  }
+
+  .talk6 {
+    margin-left: 825px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -5px;
+  }
+
+  .title2 {
+   text-align: center;
+   margin-right: 400px;
+   margin-left: 350px;
+  border: solid black 10px;
+  text-transform: capitalize;
+  text-decoration-color: black;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-size: 50px;
+  }
+
+  .list2 {
+    background: #000;
+    height: 80px; 
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+    text-align: left;
+  }
+
+  .list2 ul {
+    height: 80px;
+  list-style: none;
+  margin: 0 auto; 
+  padding: 0;
+}
+
+.list2 ul li {
+    color: #fff;
+  display: inline-block; 
+  height: 80px;
+  line-height: 80px; 
+  list-style: none;
+  padding: 0 10px;
+  text-align: left;
+  margin-left: -900px;
+}

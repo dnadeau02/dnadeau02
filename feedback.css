@@ -1,0 +1,36 @@
+.feedback {
+    font-weight: bolder;
+    margin-left: 550px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    font-size: 18px;
+        
+}
+
+.done {
+    margin-left: 550px;
+    margin-top: -50px;
+    color: white;
+    font-size: 18px  ;
+    font-weight: bolder;
+}
+
+.main {
+    background-image: url(https://www.industryfreak.com/wp-content/uploads/2019/08/Marvel-movies-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    border: solid black 10px;
+    margin-top: -10px;
+    background-color: blue;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.submit {
+    color: blueviolet;
+    font-weight: bold
+}

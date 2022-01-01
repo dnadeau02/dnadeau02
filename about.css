@@ -1,0 +1,14 @@
+.main {
+    background-image: url(https://cdn.wallpapersafari.com/96/78/zrtMvu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+    margin-left: 800px;
+    margin-top: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+    text-align: center;
+}

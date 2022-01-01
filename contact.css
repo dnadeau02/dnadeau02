@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+    border: solid black 10px;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 75px;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: white;
+    box-shadow: black 2px ;
+}
+
+.email {
+    text-align: center;
+    margin-top: 75px;
+    font-size: xx-large;
+    margin-top: 75px;
+    font-size: large;
+    font-style: italic;
+    font-weight: bolder;
+    color: white;
+}
+
+.main {
+    background-image: url(https://media.titanbooks.com/catalog/products/MarvelAvengers_TheArtoftheGame_FINALwithcopyright_w4JfXcN.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
